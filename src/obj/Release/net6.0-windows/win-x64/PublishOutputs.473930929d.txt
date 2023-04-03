@@ -1,0 +1,2 @@
+X:\PROJ\Prog\NetShareFreeSpace\bin\Release\net6.0-windows\publish\win-x64\SharedFoldersFreeSpace.pdb
+X:\PROJ\Prog\NetShareFreeSpace\bin\Release\net6.0-windows\publish\win-x64\SharedFoldersFreeSpace.exe
